@@ -12,3 +12,6 @@ npm run serve
 ```
 java -jar login-0.0.1-SNAPSHOT.jar 
 ```
+
+## 数据库名为security
+
