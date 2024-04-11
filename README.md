@@ -1,23 +1,14 @@
-
-## Project setup
+## 加载前端环境
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动前端项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## 启动后端项目
 ```
-npm run build
+java -jar login-0.0.1-SNAPSHOT.jar 
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
